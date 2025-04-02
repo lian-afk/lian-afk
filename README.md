@@ -34,6 +34,6 @@
 
 ###
 
-<p align="left">My name is Lian and I'm a CC student. It's nice to meet you! ✨<br><br>📚 Currently improving my skills with Pyhon, Web Development and SQL.<br>✒️ I'm a big fan of art and game design.<br>💡 At the moment, I'm looking for challenges and more ways to practice and be a better dev, with determination and persistance.</p>
+<p align="left">My name is Lian and I'm a CC student. It's nice to meet you! ✨<br><br>📚 Currently improving my skills with Python, Web Development and SQL.<br>✒️ I'm a big fan of art and game design.<br>💡 At the moment, I'm looking for challenges and more ways to practice for being a better dev, with determination and persistance.</p>
 
 ###
